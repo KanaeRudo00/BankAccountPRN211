@@ -1,0 +1,15 @@
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\bin\Debug\net5.0\DataAccessObject.deps.json
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\bin\Debug\net5.0\DataAccessObject.dll
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\bin\Debug\net5.0\DataAccessObject.pdb
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.AssemblyReference.cache
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\DataAccessObject.AssemblyInfoInputs.cache
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\DataAccessObject.AssemblyInfo.cs
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.CoreCompileInputs.cache
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.CopyComplete
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\DataAccessObject.dll
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\refint\DataAccessObject.dll
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\DataAccessObject.pdb
+C:\Users\RLappc.com\source\repos\DemoTemplates5.0\DataAccessObject\obj\Debug\net5.0\ref\DataAccessObject.dll
